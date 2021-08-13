@@ -1,0 +1,5 @@
+BEFORE running the SQL files
+Create a "app_db" database using 
+
+CREATE DATABASE command.
+Then run create user.sql
